@@ -8,6 +8,8 @@ pandas
 scikit-learn
 scipy
 seaborn
+scikit-image
+opencv-python
 
 sagemaker
 chainer
